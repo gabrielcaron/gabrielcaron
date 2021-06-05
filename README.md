@@ -1,4 +1,4 @@
-![Gabriel Caron](bandeau_figma_v2.png)
+![Gabriel Caron](github-banniere.png)
 
 <!---
 gabrielcaron/gabrielcaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
