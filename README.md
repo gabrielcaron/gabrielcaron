@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @gabrielcaron, Web Developper and Graphic Designer
-- 🌱 I’m currently learning Swift/SwiftUI
-- 📫 How to reach me: gabriel.caron@gmail.com
+![Gabriel Caron](bandeau_figma_v2.png)
 
 <!---
 gabrielcaron/gabrielcaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
